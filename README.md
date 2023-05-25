@@ -1,5 +1,4 @@
 # ChatGPT-APP
-# Awesome Free ChatGPT
 
 [中文](README.md)
 
