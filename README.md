@@ -1,7 +1,5 @@
 # ChatGPT-APP
 
-[中文](README.md)
-
 🚀 List of free ChatGPT(<https://chat.openai.com/>) mirror sites, continuously updated.
 
 The websites listed here are from the internet, please do not enter any personal sensitive information on these websites.
