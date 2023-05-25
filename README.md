@@ -68,13 +68,7 @@ Feel free to submit issues and PRs to add new websites or report website failure
 
 - [ 🆓 ] [https://heimoshuiyu.github.io/chatgpt-api-web/?key=fakekey&api=https%3A%2F%2F3lio5ooiekcn3gxx6du2jf5wzq0mudmm.lambda-url.us-east-1.on.aws%2F&mode=fetch](https://heimoshuiyu.github.io/chatgpt-api-web/?key=fakekey&api=https%3A%2F%2F3lio5ooiekcn3gxx6du2jf5wzq0mudmm.lambda-url.us-east-1.on.aws%2F&mode=fetch) from <https://github.com/heimoshuiyu/chatgpt-api-web>
 
-- [ 🆓 ] [https://mirrorchat.extkj.cn](https://mirrorchat.extkj.cn/)
-
-- [ 🆓 ] [http://www.msai.fun](http://www.msai.fun/)
-
 - [ 🆓 ] [https://chat.gptplus.one](https://chat.gptplus.one)
-
-- [ 🆓📚 ] [https://chat.waixingyun.cn](https://chat.waixingyun.cn)
 
 - [ 🆓 ] [https://chat.xiami.one](https://chat.xiami.one)
 
