@@ -354,11 +354,3 @@ Feel free to submit issues and PRs to add new websites or report website failure
 </details>
 
 🤟 Have Fun!
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=LiLittleCat/awesome-free-chatgpt&type=Date)](https://star-history.com/#LiLittleCat/awesome-free-chatgpt&Date)
-
-## Contributors
-
-[![Contributors](https://contrib.rocks/image?repo=LiLittleCat/awesome-free-chatgpt)](https://github.com/LiLittleCat/awesome-free-chatgpt/graphs/contributors)
