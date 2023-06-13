@@ -839,11 +839,3 @@ Free operation steps: Go to API settings and select 'Use custom API endpoint'. T
 - [Meaningful Code Tests for Busy Devs | CodiumAI](https://www.codium.ai/) - With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you can code smart, create more value, and stay confident when you push.
 
 ---
-
-### 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=LiLittleCat/awesome-free-chatgpt&type=Date)](https://star-history.com/#LiLittleCat/awesome-free-chatgpt&Date)
-
-### 💞 Contributors
-
-[![Contributors](https://contrib.rocks/image?repo=LiLittleCat/awesome-free-chatgpt)](https://github.com/LiLittleCat/awesome-free-chatgpt/graphs/contributors)
